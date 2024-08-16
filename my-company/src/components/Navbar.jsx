@@ -16,8 +16,8 @@ function Navbar() {
 
             <h3 style={{ 
               display: "flex", 
-              color: "#646cff" }}>Abdul<em><span style={{ 
-              color: "grey" }}>basit</span></em>
+              color: "#646cff" }}>I'm<em><span style={{ 
+              color: "grey" }}>Cedrick</span></em>
             </h3>
       
             <div style={{ 
