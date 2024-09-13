@@ -2,6 +2,9 @@
 import React, { useState } from 'react';
 import { toast } from 'react-toastify';
 import recipeData from '../data.json'; 
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 
 const AddRecipeForm = () => {
   // States using useState
